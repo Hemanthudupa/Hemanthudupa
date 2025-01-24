@@ -33,11 +33,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" />
+   <img width="12" />
    <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="30" height="30" />
+    <img width="12" />
    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="30" height="30" />
+    <img width="12" />
    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="30" height="30" />
+    <img width="12" />
    <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="30" height="30" />
+    <img width="12" />
    <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="30" height="30" />
+   
 
 </div>
 
