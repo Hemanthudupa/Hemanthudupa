@@ -26,7 +26,7 @@
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=express" alt="express" width="30" height="30" />
 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="30" height="30" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" />
   <img width="12" />
