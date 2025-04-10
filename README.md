@@ -44,9 +44,11 @@
     <img width="12" />
    <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="30" height="30" />
       <img width="12" />
-   <img src="https://skillicons.dev/icons?i=react" alt="graphql" width="30" height="30" />
+   <img src="https://skillicons.dev/icons?i=react" alt="react" width="30" height="30" />
       <img width="12" />
-   <img src="https://skillicons.dev/icons?i=tailwind" alt="graphql" width="30" height="30" />
+   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="30" height="30" />
+      <img width="12" />
+   <img src="https://skillicons.dev/icons?i=websocket" alt="websocket" width="30" height="30" />
    
 
 </div>
