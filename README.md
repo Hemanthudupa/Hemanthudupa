@@ -20,7 +20,7 @@
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg)" height="30" alt="django logo" />
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" height="30" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
